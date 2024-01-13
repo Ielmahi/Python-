@@ -12,8 +12,8 @@ This is a simple password generator program written in Python. It generates a ra
    ```shell
    python password_generator.py
 
-5.Follow the prompts to input the desired number of letters, symbols, and digits for your password.
-6.The program will generate a random password and display it as the final output.
+5. Follow the prompts to input the desired number of letters, symbols, and digits for your password.
+6. The program will generate a random password and display it as the final output.
 
 ## Dependencies
 
