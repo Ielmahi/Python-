@@ -30,6 +30,7 @@ This Python project allows you to encrypt and decrypt messages using a simple Ca
 If you would like to contribute to this project, feel free to fork the repository and submit pull requests with your improvements.
 
 ## License
+
 This project is licensed under the [MIT License](LICENSE).
 
 ## Author
