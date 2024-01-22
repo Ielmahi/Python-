@@ -13,7 +13,7 @@ Welcome to the Silent Auction Program! This simple Python program allows users t
 - cd silent-auction-program
 - python3 Silent_auction_program.py
 
-### Prerequisites
+## Prerequisites
 
 - Python 3.x installed on your system.
 
