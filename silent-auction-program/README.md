@@ -23,3 +23,9 @@ Welcome to the Silent Auction Program! This simple Python program allows users t
 ## Acknowledgments
 - Inspired by Silent Auctions
 - Feel free to customize the content based on your specific project details and preferences.
+
+## Author
+
+Ilias Elmahi
+
+- GitHub: [Ielmahi](https://github.com/Ielmahi)

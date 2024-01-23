@@ -26,3 +26,9 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Feel free to use, modify, and distribute this code as needed.
 
 You can save the above content as a `README.md` file in the same directory as your code (`password_generator.py`). Make sure to update the content to reflect any specific details about your project, such as the file name and any additional features or instructions.
+
+## Author
+
+Ilias Elmahi
+
+- GitHub: [Ielmahi](https://github.com/Ielmahi)

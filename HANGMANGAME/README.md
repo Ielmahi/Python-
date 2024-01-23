@@ -34,4 +34,11 @@ This project is licensed under the [MIT License](LICENSE).
 Feel free to customize and improve upon this game. Have fun playing Hangman!
 ```
 
+
+## Author
+
+Ilias Elmahi
+
+- GitHub: [Ielmahi](https://github.com/Ielmahi)
+
 Copy the above content and paste it into your README file. Make sure to save the file and commit it along with your code.

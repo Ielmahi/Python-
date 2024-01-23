@@ -34,6 +34,9 @@ If you would like to contribute to this project, feel free to fork the repositor
 This project is licensed under the [MIT License](LICENSE).
 
 ## Author
-[Ilias Elmahi]
+
+Ilias Elmahi
+
+- GitHub: [Ielmahi](https://github.com/Ielmahi)
 
 Feel free to customize this template according to your project's specifics. Add information about dependencies, installation instructions, or any additional features you might want to highlight.
