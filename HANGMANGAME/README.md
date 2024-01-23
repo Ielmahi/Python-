@@ -32,7 +32,6 @@ This game was created using Python. The ASCII art for the hangman was provided b
 This project is licensed under the [MIT License](LICENSE).
 
 Feel free to customize and improve upon this game. Have fun playing Hangman!
-```
 
 
 Copy the above content and paste it into your README file. Make sure to save the file and commit it along with your code
