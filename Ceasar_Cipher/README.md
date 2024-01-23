@@ -1,5 +1,6 @@
 # Encryption/Decryption Python Project
 
+
 ## Description
 This Python project allows you to encrypt and decrypt messages using a simple Caesar cipher. The Caesar cipher is a substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
 
@@ -32,6 +33,7 @@ If you would like to contribute to this project, feel free to fork the repositor
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
 
 ## Author
 
