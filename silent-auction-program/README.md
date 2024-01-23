@@ -8,6 +8,7 @@ Welcome to the Silent Auction Program! This simple Python program allows users t
 - Determine the highest bidder and winning bid.
 - Clear the console screen for a cleaner user interface.
 
+
 ## Getting Started
 
 - cd silent-auction-program
