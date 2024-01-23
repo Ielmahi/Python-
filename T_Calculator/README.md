@@ -2,6 +2,7 @@
 
 A simple console-based calculator written in Python.
 
+
 ## Features
 
 - Performs basic arithmetic operations: addition, subtraction, multiplication, and division.
