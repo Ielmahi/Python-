@@ -1,5 +1,6 @@
 # Silent Auction Program
 
+
 Welcome to the Silent Auction Program! This simple Python program allows users to participate in a silent auction by entering their names and bids. The program then determines the winner based on the highest bid.
 
 ## Features
@@ -27,6 +28,5 @@ Welcome to the Silent Auction Program! This simple Python program allows users t
 
 ## Author
 
-Ilias Elmahi
-
+Ilias Elmahi 
 - GitHub: [Ielmahi](https://github.com/Ielmahi)
